@@ -39,7 +39,7 @@ An intelligent incident detection and emergency response system powered entirely
 | **Text Generation** | High-quality, coherent text output | Creating precautions, action steps, and emergency instructions |
 | **Multilingual Support** | 100+ language translation capability | Supporting  regional languages with automatic detection |
 | **Text-to-Speech** | Natural voice synthesis | Emergency audio alerts in user's regional language |
-| **Speed & Latency** | Sub-second response times | Real-time incident analysis (<2 seconds) |
+| **Speed & Latency** | Sub-second response times | Real-time incident analysis |
 | **Accuracy** | Best Accuracy in scene understanding | High-precision incident type classification |
 | **Context Awareness** | Multi-turn conversation with memory | Awareness of location, severity, and regional emergency protocols |
 | **Cost Efficiency** | Free tier with generous limits | Optimized API calls for scale without high costs |
