@@ -23,10 +23,10 @@ An intelligent incident detection and emergency response system powered entirely
 |-------|-----------|
 | **Frontend** | Next.js 15, React 18, TypeScript, Tailwind CSS, Shadcn/ui |
 | **Maps & Visualization** | Leaflet, Recharts |
-| **AI/ML** | **Google Gemini 3 Flash** (100% AI powered) |
+| **AI/ML** | **Google Gemini 3 **  |
 | **Backend** | Next.js API Routes |
-| **Alerts** | Twilio (optional) |
-| **Media Storage** | Cloudinary (optional) |
+| **Alerts** | Twilio |
+| **Media Storage** | Cloudinary  |
 
 ---
 
